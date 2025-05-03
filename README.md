@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="programmer-4709802_1280.jpg" width="200"/>
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
 </p>
+
 
 <h1 align="center">zakariaennaqui</h1>
 
