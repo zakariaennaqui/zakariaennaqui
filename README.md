@@ -13,8 +13,7 @@
 - 💻 Compétences en Java, C, Python, HTML/CSS/JS, React, MySQL
 - 🌱 En recherche d’un stage d’initiation pour renforcer mes compétences
 - 📍 Sérieux, curieux, autonome et toujours prêt à apprendre
-- 🌐 Portfolio : [https://mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)
-- 💼 LinkedIn : [linkedin.com/in/zakaria-ennaqui-990883362](https://linkedin.com/in/zakaria-ennaqui-990883362)
+<!--- 🌐 Portfolio : [https://mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)-->
 
 ---
 
