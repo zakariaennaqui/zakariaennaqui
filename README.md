@@ -33,8 +33,8 @@
 ### 🌐 Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 
 ### 🗃️ Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,6 +63,10 @@
 ## 🚀 Projets
 
 ### Projet Site E-commerce - UML & Génie Logiciel
+<p align="center">
+  <!--...<br/>-->
+  <strong>Stack :</strong> HTML, CSS, JS, Node.js, PlantUML, GanttProject
+</p>
 <p align="center">
   <a href="https://github.com/zakariaennaqui/site-ecommerce-uml">
     <img src="https://img.shields.io/badge/Visiter%20le%20projet-The%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
