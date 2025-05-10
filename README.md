@@ -29,7 +29,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316h7jpufd7vptzl2bqlkd6ripju?si=MDtZ6T9WTdeAHfgihOxUcQ)
 [![Threads](https://img.shields.io/badge/Threads-E4405F?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/zakaria_ennaqui)
 [![Sms](https://img.shields.io/badge/Sms-25D366?style=for-the-badge&logo=sms&logoColor=white)](sms:+212642588624)
-[SMS: +212642588624](sms:+212642588624)
+[![YouTube](https://img.shields.io/badge/Youtube-25D366?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ZakariaEnnaqui-z5z)
 
 
 - Si tu veux discuter, poser une question ou collaborer, n’hésite pas à me contacter !
