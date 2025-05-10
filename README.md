@@ -28,7 +28,7 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://www.snapchat.com/add/cirtoplasme)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316h7jpufd7vptzl2bqlkd6ripju?si=MDtZ6T9WTdeAHfgihOxUcQ)
 [![Threads](https://img.shields.io/badge/Threads-E4405F?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/zakaria_ennaqui)
-[![SMS](https://img.shields.io/badge/SMS-25D366?style=for-the-badge&logo=sms&logoColor=white)](sms:+212642588624)
+[![Sms](https://img.shields.io/badge/Sms-25D366?style=for-the-badge&logo=sms&logoColor=white)](sms:+212642588624)
 [SMS: +212642588624](sms:+212642588624)
 
 
