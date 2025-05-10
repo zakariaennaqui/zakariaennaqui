@@ -29,9 +29,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316h7jpufd7vptzl2bqlkd6ripju?si=MDtZ6T9WTdeAHfgihOxUcQ)
 [![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/zakaria_ennaqui)
 [![Sms](https://img.shields.io/badge/Sms-blue?style=for-the-badge&logo=sms&logoColor=white)](sms:+212642588624)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zikenq)
+[![Telegram](https://img.shields.io/badge/Telegram-77B5FE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zikenq)
 [![Messenger](https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/zakaria.ennaqui.79)
-[![Edits](https://img.shields.io/badge/Edits-purple?style=for-the-badge&logo=edits&logoColor=white)](https://www.edits.com/zakaria_ennaqui)
+[![Skype](https://img.shields.io/badge/Skype-77B5FE?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/.cid.299b57db652c9205)
 <!--[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ZakariaEnnaqui-z5z)-->
 
 
