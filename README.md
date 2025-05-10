@@ -31,7 +31,7 @@
 [![Sms](https://img.shields.io/badge/Sms-blue?style=for-the-badge&logo=sms&logoColor=white)](sms:+212642588624)
 [![Telegram](https://img.shields.io/badge/Telegram-77B5FE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zikenq)
 [![Messenger](https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/zakaria.ennaqui.79)
-[![Teams](https://img.shields.io/badge/Teams-purple?style=for-the-badge&logo=microsoftteams&logoColor=white)](skype:.cid.299b57db652c9205?chat)
+[![Teams](https://img.shields.io/badge/Teams-purple?style=for-the-badge&logo=microsoft teams&logoColor=white)](skype:.cid.299b57db652c9205?chat)
 <!--[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ZakariaEnnaqui-z5z)-->
 
 
