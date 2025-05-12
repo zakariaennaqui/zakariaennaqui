@@ -33,6 +33,11 @@
 [![Messenger](https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/zakaria.ennaqui.79)
 <!--[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@userdose-m3p?si=uPhkAfXVyC30dg3K)-->
 
+Vous pouvez m’envoyer un SMS en cliquant sur le lien ci-dessous :
+
+[Envoyer un SMS](sms:+212642588624)
+
+
 
 - Si tu veux discuter, poser une question ou collaborer, n’hésite pas à me contacter !
 
@@ -76,7 +81,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&ĺ=windows&logoColor=white)
 
 ### 🧪 Simulation / Analyse
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
