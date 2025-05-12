@@ -28,16 +28,9 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://www.snapchat.com/add/cirtoplasme)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316h7jpufd7vptzl2bqlkd6ripju?si=MDtZ6T9WTdeAHfgihOxUcQ)
 [![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/zakaria_ennaqui)
-[![Sms](https://img.shields.io/badge/Sms-blue?style=for-the-badge&logo=sms&logoColor=white)](sms:+212642588624)
 [![Telegram](https://img.shields.io/badge/Telegram-77B5FE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zikenq)
 [![Messenger](https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/zakaria.ennaqui.79)
 <!--[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@userdose-m3p?si=uPhkAfXVyC30dg3K)-->
-
-Vous pouvez m’envoyer un SMS en cliquant sur le lien ci-dessous :
-
-[Envoyer un SMS](sms:+212642588624)
-
-
 
 - Si tu veux discuter, poser une question ou collaborer, n’hésite pas à me contacter !
 
