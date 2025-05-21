@@ -23,7 +23,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zakaria.ennaqui.79)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zakaria_ennaqui)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212642588624)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ZikoNaki?t=O47Pt9soFTQzKJYO-r0cHg&s=09)
+[![X](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ZikoNaki?t=O47Pt9soFTQzKJYO-r0cHg&s=09)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zakaria.ennaqui)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://www.snapchat.com/add/cirtoplasme)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316h7jpufd7vptzl2bqlkd6ripju?si=MDtZ6T9WTdeAHfgihOxUcQ)
