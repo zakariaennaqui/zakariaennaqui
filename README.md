@@ -1,9 +1,4 @@
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=react" alt="GitHub Streak" height="180"/>
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=zakariaennaqui&theme=react)
 
 
 
