@@ -144,6 +144,9 @@
 
 ### java project
 > ⚠ Projet en cours d'évolution
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-En%20d%C3%A9veloppement-yellow?style=for-the-badge" alt="Status : En développement"/>
+</p>
 <!--<p align="center">
   ...<br/>
   <strong>Stack :</strong> ...
