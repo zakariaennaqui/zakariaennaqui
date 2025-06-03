@@ -4,6 +4,25 @@
 
 <h1 align="center">zakariaennaqui</h1>
 
+<h1 align="center">Hi there 👋, I'm Zakaria Ennaqui</h1>
+<h3 align="center">[Your Profession | Your Tagline | What you love]</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9D%A4%EF%B8%8F+Open+Source;Always+learning+something+new..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/zakariaennaqui?tab=followers">
+    <img src="https://img.shields.io/github/followers/zakariaennaqui?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/zakariaennaqui">
+    <img src="https://komarev.com/ghpvc/?username=zakariaennaqui&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+  <!-- Add more shields as needed -->
+</p>
+
+---
+
 ---
 
 ##
