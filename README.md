@@ -1,8 +1,5 @@
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=react" 
-  alt="GitHub Streak" 
-  width="400"  <!-- Ajustez la largeur si besoin -->
-/>
+## 📊 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=dark)](https://git.io/streak-stats)
 
 
 
