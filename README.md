@@ -31,8 +31,6 @@
 - Sérieux, curieux, autonome et toujours prêt à apprendre
 <!--- 🌐 Portfolio : [https://mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)-->
 
----
-
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
