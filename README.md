@@ -1,9 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=react&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
-
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
 </p>
