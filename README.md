@@ -69,6 +69,11 @@
 
 ## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,github,linux,postgresql,aws" />
+  <!-- Add/remove skills as needed. Full list: https://skillicons.dev/ -->
+</p>
+
 ### 🖥️ Langages
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
