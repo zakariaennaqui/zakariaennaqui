@@ -1,5 +1,4 @@
-## 📊 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
 
