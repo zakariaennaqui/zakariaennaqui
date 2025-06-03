@@ -142,7 +142,8 @@
   </a>
 </p>
 
-### java project(en train)
+### java project
+> ⚠ Projet en cours d'évolution
 <!--<p align="center">
   ...<br/>
   <strong>Stack :</strong> ...
