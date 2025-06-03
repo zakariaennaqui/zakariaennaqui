@@ -58,7 +58,7 @@
 [![Messenger](https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/zakaria.ennaqui.79)
 <!--[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@userdose-m3p?si=uPhkAfXVyC30dg3K)-->
 
-- Si tu veux discuter, poser une question ou collaborer, n’hésite pas à me contacter !
+<p>Si tu veux discuter, poser une question ou collaborer, n’hésite pas à me contacter !</p>
 
 <p align="center">
   <a href="mailto:zakariaennaqui.pro@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
