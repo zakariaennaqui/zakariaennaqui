@@ -59,7 +59,7 @@
 ## 🧰 Tech Stack
 
 ### 🖥️ Langages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cGF0aCBmaWxsPSIjRDA3Mzk2IiBkPSJNMTQ0IDIyOWMwIDUtMyA5LTkgOWgtNjBjLTYgMC05LTQtOS05di0xOWMwLTUgMy05IDktOWg2MGM2IDAgOSA0IDkgOXYxOXoiLz48cGF0aCBmaWxsPSIjRDczQjZDIiBkPSJNMTgwIDIyOWMwIDUtMyA5LTkgOWgtMTVjLTYgMC05LTQtOS05di0xOWMwLTUgMy05IDktOWgxNWM2IDAgOSA0IDkgOXYxOXoiLz48cGF0aCBmaWxsPSIjRDA3Mzk2IiBkPSJNMjI1IDE0OWMwIDQ4LTM4IDg3LTg1IDg3aC02MGMtNDcgMC04NS0zOS04NS04N3YtNDBjMC00OCAzOC04NyA4NS04N2g2MGM0NyAwIDg1IDM5IDg1IDg3djQweiIvPjxwYXRoIGZpbGw9IiNENzNCNkMiIGQ9Ik0yMjUgMTE5YzAgMjYtMjEgNDctNDcgNDdoLTMwYy0yNiAwLTQ3LTIxLTQ3LTQ3di0xMGMwLTI2IDIxLTQ3IDQ3LTQ3aDMwYzI2IDAgNDcgMjEgNDcgNDd2MTB6Ii8+PC9zdmc+&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
