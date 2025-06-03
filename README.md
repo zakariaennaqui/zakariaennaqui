@@ -3,8 +3,6 @@
 </p>
 
 <h1 align="center">zakariaennaqui</h1>
-
-<h1 align="center">Hi there 👋, I'm Zakaria Ennaqui</h1>
 <h3 align="center">[Your Profession | Your Tagline | What you love]</h3>
 
 <p align="center">
