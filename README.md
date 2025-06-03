@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ##
 
 - 🎓 Étudiant en 1ère année du cycle ingénieur en Génie Informatique à l'ENSA de Berrechid
