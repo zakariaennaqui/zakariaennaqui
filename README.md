@@ -31,6 +31,15 @@
 <!--- 🌐 Portfolio : [https://mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)-->
 
 ---
+<details>
+  <summary>📃 <b>More About Me</b></summary>
+  <ul>
+    <li>🔗 Portfolio: https://yourwebsite.com</li>
+    <li>🎓 Currently pursuing: [Your Degree or Certification]</li>
+    <li>🧩 Always up for a challenge or hackathon!</li>
+  </ul>
+</details>
+---
 
 ## 🔗 Let's Connect
 
