@@ -70,7 +70,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,github,linux,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,github,linux,ubuntu,debian,windows,c,java,html,css,mysql,phpmyadmin,vercel,netlify,cisco,maple,matlab" />
   <!-- Add/remove skills as needed. Full list: https://skillicons.dev/ -->
 </p>
 
