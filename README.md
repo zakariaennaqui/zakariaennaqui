@@ -148,7 +148,7 @@
   <strong>Stack :</strong> ...
 </p>
 <p align="center">
-  <a href="https://github.com/JeuDePaires">
+  <a href="https://github.com/zakariaennaqui/JeuDePaires">
     <img src="https://img.shields.io/badge/Visiter%20le%20projet-The%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
