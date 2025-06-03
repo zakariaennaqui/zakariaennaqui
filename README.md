@@ -31,6 +31,7 @@
 <!--- 🌐 Portfolio : [https://mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)-->
 
 ---
+
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
@@ -39,6 +40,7 @@
     <li>🧩 Always up for a challenge or hackathon!</li>
   </ul>
 </details>
+
 ---
 
 ## 🔗 Let's Connect
