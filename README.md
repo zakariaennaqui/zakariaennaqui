@@ -1,3 +1,16 @@
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=react" alt="GitHub Streak" height="180"/>
+</p>
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
 </p>
