@@ -109,7 +109,7 @@
 
 ---
 
-## 🚀 Projets
+## Projets
 
 ### Projet Site E-commerce - UML & Génie Logiciel
 <p align="center">
