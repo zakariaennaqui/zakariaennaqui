@@ -67,7 +67,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 🖥️ Langages
 
