@@ -74,7 +74,7 @@
   <!-- Add/remove skills as needed. Full list: https://skillicons.dev/ -->
 </p>
 
-<!--### 🖥️ Langages
+<!-- ### 🖥️ Langages
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -110,7 +110,7 @@
 ### 🧪 Simulation / Analyse
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![Maple](https://img.shields.io/badge/Maple-D34836?style=for-the-badge&logo=maple&logoColor=white)
-![PacketTracer](https://img.shields.io/badge/Packet_Tracer-0096A8?style=for-the-badge&logo=cisco&logoColor=white)-->
+![PacketTracer](https://img.shields.io/badge/Packet_Tracer-0096A8?style=for-the-badge&logo=cisco&logoColor=white) -->
 
 ---
 
