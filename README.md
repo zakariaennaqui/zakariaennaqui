@@ -65,7 +65,7 @@
   <a href="mailto:zakariaennaqui.pro@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/zakaria-ennaqui-990883362"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://linkedin.com/in/zakaria-ennaqui-990883362">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSgxOS41KWMwIC4yODItLjIyOC41LS41LjVINS41Yy0uMjcyIDAtLjUtLjIxOC0uNS0uNVY1LjVjMC0uMjc3LjIyOC0uNS41LS41aDEzYy4yNzcgMCAuNS4yMjMuNS41djE0eiIvPjxwYXRoIGZpbGw9IiMwMDc3YjUiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNUExLjk5OSAxLjk5OSAwIDAgMSA1IDNoMTR6Ii8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04LjUgMTEuNWExIDEgMCAxIDAgMC0yIDEgMSAwIDAgMCAwIDJ6bS0xLTNoLjl2MTJoLTl2LTEyaC45emTQyIDBoLTl2MTJoOXYtMS41aC03di0yaDV2LTEuNWgtNXYtMmg3djEuNWgtNXoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
