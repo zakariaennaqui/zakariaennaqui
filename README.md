@@ -59,7 +59,7 @@
 ## 🧰 Tech Stack
 
 ### 🖥️ Langages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
