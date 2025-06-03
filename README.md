@@ -1,6 +1,5 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=zakariaennaqui&theme=react)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaennaqui&theme=react)](https://git.io/streak-stats)
 
 
 
