@@ -71,7 +71,8 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,github,linux,ubuntu,debian,windows,c,java,html,css,mysql,vercel,netlify,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,vite,vscode,virtualbox,powershell,linkedin,
+intellijidea,git,github,linux,ubuntu,debian,windows,c,java,html,css,mysql,vercel,netlify,matlab" />
   <!-- Add/remove skills as needed. Full list: https://skillicons.dev/ -->
 </p>
 
