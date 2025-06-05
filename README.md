@@ -30,7 +30,8 @@
 - En recherche d’un stage d’initiation pour renforcer mes compétences
 - Sérieux, curieux, autonome et toujours prêt à apprendre
 > 🌐 Portfolio : [mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)
-> [Consulter mon CV](CV_Zakaria_Ennaqui.pdf)
+---
+> [Consulter mon CV](./Cv_ENNAQUI-Zakaria.pdf)
 
 <details>
   <summary>📃 <b>More About Me</b></summary>
