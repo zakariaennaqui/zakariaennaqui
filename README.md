@@ -26,15 +26,16 @@
 
 - 🎓 Étudiant en 1ère année du cycle ingénieur en Génie Informatique à l'ENSA de Berrechid
 - Passionné par le développement web, la programmation, les systèmes et réseaux
-- 💻 Compétences en Java, C, <!--Python,--> HTML/CSS/JS, React, MySQL
+- 💻 Compétences en Java, C, Python, HTML/CSS/JS, React, MySQL
 - En recherche d’un stage d’initiation pour renforcer mes compétences
 - Sérieux, curieux, autonome et toujours prêt à apprendre
-<!--- 🌐 Portfolio : [https://mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)-->
+> 🌐 Portfolio : [mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)
+> [Consulter mon CV](CV_Zakaria_Ennaqui.pdf)
 
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
-    <li>🔗 Portfolio: https://website.com</li>
+    <li>🔗 Portfolio: https://mon-portfolio-brown.vercel.app</li>
     <li>Currently pursuing: [<!--Degree Certification-->]</li>
     <li>Always up for a challenge or hackathon!</li>
   </ul>
