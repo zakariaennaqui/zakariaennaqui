@@ -198,3 +198,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaennaqui&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zakariaennaqui&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+[![Dynamic Profile Banner](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariaennaqui&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Hicham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakariaennaqui&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
