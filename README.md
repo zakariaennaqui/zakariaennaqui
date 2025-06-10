@@ -36,7 +36,7 @@
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
-    <li>🔗 Portfolio: https://mon-portfolio-brown.vercel.app</li>
+    <li>🔗 Portfolio: https://jeudepaires.my.canva.site/</li>
     <li>Currently pursuing: [<!--Degree Certification-->]</li>
     <li>Always up for a challenge or hackathon!</li>
   </ul>
