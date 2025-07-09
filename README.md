@@ -142,6 +142,11 @@
     <img src="https://img.shields.io/badge/Visiter%20le%20projet-The%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://ecommerce-app-6dsg.vercel.app">
+    <img src="https://img.shields.io/badge/Visiter%20le%20projet-eCommerce%20App-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ### Plateforme de Gestion de Parking – React
 <p align="center">
