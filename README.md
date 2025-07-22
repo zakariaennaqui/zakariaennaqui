@@ -135,7 +135,7 @@
 ### Projet Site E-commerce - UML & Génie Logiciel
 <p align="center">
   <!--...<br/>-->
-  <strong>Stack :</strong> HTML, CSS, JS, Node.js, UML, Gantt
+  <strong>Stack :</strong> HTML, CSS, JS, Node.js, UML
 </p>
 <p align="center">
   <a href="https://github.com/zakariaennaqui/site-ecommerce-uml">
