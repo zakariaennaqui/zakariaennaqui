@@ -129,7 +129,7 @@
   </a>
 </p>
 
-### Projet Site E-commerce - UML & Génie Logiciel
+### E-commerce website
 <p align="center">
   <!--...<br/>-->
   <strong>Stack :</strong> HTML, CSS, JS, Node.js, UML
