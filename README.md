@@ -24,7 +24,7 @@
 
 ##
 
-- Étudiant en 2me année du cycle ingénieur en Génie Informatique à l'ENSA de Berrechid
+- 2nd-year Computer Engineering student at ENSA Berrechid
 - En recherche d’un stage PFA pour renforcer mes compétences
 > 🌐 Portfolio : [zakariaennaqui.com](https://mon-portfolio-brown.vercel.app)
 ---
