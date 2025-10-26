@@ -29,14 +29,14 @@
 - 💻 Compétences en Java, C, Python, HTML/CSS/JS, React, MySQL
 - En recherche d’un stage d’initiation pour renforcer mes compétences
 - Sérieux, curieux, autonome et toujours prêt à apprendre
-> 🌐 Portfolio : [mon-portfolio-brown.vercel.app](https://mon-portfolio-brown.vercel.app)
+> 🌐 Portfolio : [zakariaennaqui.com](https://mon-portfolio-brown.vercel.app)
 ---
 > [Consulter mon CV](./Cv_ENNAQUI-Zakaria.pdf)
 
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
-    <li>🔗 Portfolio: https://myself-port.my.canva.site</li>
+    <li>🔗 Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui.com</a></li>
     <li>Currently pursuing: [<!--Degree Certification-->]</li>
     <li>Always up for a challenge or hackathon!</li>
   </ul>
@@ -71,7 +71,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,vite,powershell,git,github,linux,ubuntu,npm,debian,windows,c,java,html,css,mysql,vercel,netlify,matlab,vscode,mongodb,express,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,vite,powershell,git,github,linux,ubuntu,npm,debian,windows,c,java,html,css,mysql,vercel,netlify,matlab,vscode,mongodb,express,pycharm,r,rstudio" />
   <!-- Add/remove skills as needed. Full list: https://skillicons.dev/ -->
 </p>
 
