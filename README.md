@@ -25,10 +25,7 @@
 ##
 
 - 🎓 Étudiant en 2me année du cycle ingénieur en Génie Informatique à l'ENSA de Berrechid
-- Passionné par le développement web, la programmation, les systèmes et réseaux
-- 💻 Compétences en Java, C, Python, HTML/CSS/JS, React, MySQL
-- En recherche d’un stage d’initiation pour renforcer mes compétences
-- Sérieux, curieux, autonome et toujours prêt à apprendre
+- En recherche d’un stage PFA pour renforcer mes compétences
 > 🌐 Portfolio : [zakariaennaqui.com](https://mon-portfolio-brown.vercel.app)
 ---
 > [Consulter mon CV](./Cv_ENNAQUI-Zakaria.pdf)
