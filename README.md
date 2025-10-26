@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">zakariaennaqui</h1>
-<h3 align="center">software ingénieur <!-- | Your Tagline | What you love --> </h3>
+<h3 align="center">software engineer student <!-- | Your Tagline | What you love --> </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9D%A4%EF%B8%8F+Open+Source;Always+learning+something+new..." alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 ##
 
-- 🎓 Étudiant en 2me année du cycle ingénieur en Génie Informatique à l'ENSA de Berrechid
+- Étudiant en 2me année du cycle ingénieur en Génie Informatique à l'ENSA de Berrechid
 - En recherche d’un stage PFA pour renforcer mes compétences
 > 🌐 Portfolio : [zakariaennaqui.com](https://mon-portfolio-brown.vercel.app)
 ---
