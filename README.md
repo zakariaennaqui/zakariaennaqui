@@ -33,7 +33,7 @@
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
-    <li>🔗 Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui.com</a></li>
+    <li>🔗 Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui</a></li>
     <li>Currently pursuing: [<!--Degree Certification-->]</li>
     <li>Always up for a challenge or hackathon!</li>
   </ul>
