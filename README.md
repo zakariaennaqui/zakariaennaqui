@@ -132,7 +132,7 @@
 ### E-commerce website
 <p align="center">
   <!--...<br/>-->
-  <strong>Stack :</strong> React.js · Node.js
+  <strong>Stack :</strong> React Js · Node Js
 </p>
 <p align="center">
   <a href="https://github.com/zakariaennaqui/ecommerce-website">
@@ -148,7 +148,7 @@
 ### Plateforme de Gestion de Parking
 <p align="center">
   Plateforme web de gestion de parkings avec réservation, visualisation en temps réel et interface d’administration.<br/>
-  <strong>Stack :</strong> React.js · Node.js
+  <strong>Stack :</strong> React Js · Node Js
 </p>
 <p align="center">
   <a href="https://github.com/zakariaennaqui/parking-platform">
