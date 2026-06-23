@@ -27,17 +27,14 @@
 - 4nd-year Computer Engineering student at ENSA Berrechid
 - En recherche d’un stage PFA pour renforcer mes compétences
 > Portfolio : [zakariaennaqui](https://zakaria-ennaqui.vercel.app)
----
 > [Consulter mon CV](./Cv_ENNAQUI-Zakaria.pdf)
 
-<details>
+<!-- <details>
   <summary><b>More About Me</b></summary>
   <ul>
-    <li>Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui</a></li>
-    <li>Currently pursuing: [<!--Degree Certification-->]</li>
-    <li>Always up for a challenge or hackathon!</li>
+    <li></li>
   </ul>
-</details>
+</details> -->
 
 ---
 
