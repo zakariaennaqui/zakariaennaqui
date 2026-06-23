@@ -32,9 +32,6 @@
 
 <!-- <details>
   <summary><b>More About Me</b></summary>
-  <ul>
-    <li></li>
-  </ul>
 </details> -->
 
 ---
