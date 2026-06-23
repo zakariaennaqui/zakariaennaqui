@@ -26,14 +26,14 @@
 
 - 4nd-year Computer Engineering student at ENSA Berrechid
 - En recherche d’un stage PFA pour renforcer mes compétences
-> 🌐 Portfolio : [zakariaennaqui](https://zakaria-ennaqui.vercel.app)
+> Portfolio : [zakariaennaqui](https://zakaria-ennaqui.vercel.app)
 ---
 > [Consulter mon CV](./Cv_ENNAQUI-Zakaria.pdf)
 
 <details>
   <summary>📃 <b>More About Me</b></summary>
   <ul>
-    <li>🔗 Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui</a></li>
+    <li>Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui</a></li>
     <li>Currently pursuing: [<!--Degree Certification-->]</li>
     <li>Always up for a challenge or hackathon!</li>
   </ul>
@@ -68,44 +68,33 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,vite,powershell,git,github,linux,ubuntu,npm,debian,windows,c,java,html,css,mysql,vercel,netlify,matlab,vscode,mongodb,express,pycharm,r" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,vite,git,github,linux,ubuntu,npm,debian,c,java,html,css,mysql,matlab,vscode,mongodb,express" />
   <!-- Add/remove skills as needed. Full list: https://skillicons.dev/ -->
 </p>
 
-<!--### 🖥️ Langages
+<!--### Langages
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Web
+### Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗃️ Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6699cc?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-004C8C?style=for-the-badge&logo=mysql&logoColor=white)
+### Bases de données
 
-### ⚙️ Outils & IDE
+### Outils & IDE
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 💻 OS & Virtualisation
+### OS & Virtualisation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white)
 
-### 🧪 Simulation / Analyse
+### Simulation / Analyse
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![Maple](https://img.shields.io/badge/Maple-D34836?style=for-the-badge&logo=maple&logoColor=white)
 ![PacketTracer](https://img.shields.io/badge/Packet_Tracer-0096A8?style=for-the-badge&logo=cisco&logoColor=white)-->
@@ -193,7 +182,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariaennaqui&show_icons=true&theme=radical)
 
