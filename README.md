@@ -31,7 +31,7 @@
 > [Consulter mon CV](./Cv_ENNAQUI-Zakaria.pdf)
 
 <details>
-  <summary>📃 <b>More About Me</b></summary>
+  <summary><b>More About Me</b></summary>
   <ul>
     <li>Portfolio: <a href="https://myself-port.my.canva.site">zakariaennaqui</a></li>
     <li>Currently pursuing: [<!--Degree Certification-->]</li>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-ennaqui-990883362)-->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zakaria.ennaqui.79)
