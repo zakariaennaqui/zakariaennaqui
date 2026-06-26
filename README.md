@@ -44,10 +44,13 @@ Computer Engineering student at **ENSA Berrechid** (Université Hassan 1er), pas
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,vite,html,css,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle,docker,git,github,linux,ubuntu,androidstudio,matlab,c" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,kotlin,bash,vscode,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github,linux,ubuntu,androidstudio,matlab,c,kotlin" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,bash,vscode,postman,figma,vercel" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RMAN-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
@@ -58,8 +61,6 @@ Computer Engineering student at **ENSA Berrechid** (Université Hassan 1er), pas
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RMAN-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 ---
 
