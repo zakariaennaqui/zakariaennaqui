@@ -16,6 +16,9 @@
   <a href="https://github.com/zakariaennaqui">
     <img src="https://komarev.com/ghpvc/?username=zakariaennaqui&style=flat-square&color=2d6cdf"/>
   </a>
+  <a href="tel:+212642588624">
+    <img src="https://img.shields.io/badge/+212_642_588_624-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
   <a href="mailto:zakariaennaqui.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
