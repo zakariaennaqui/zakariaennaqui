@@ -38,7 +38,7 @@
 
 ## Let's Connect
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-ennaqui-990883362)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-ennaqui-990883362)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zakaria.ennaqui.79)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zakaria_ennaqui)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212642588624)
@@ -49,7 +49,7 @@
 [![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/zakaria_ennaqui)
 [![Telegram](https://img.shields.io/badge/Telegram-77B5FE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zikenq)
 [![Messenger](https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/zakaria.ennaqui.79)
-<!--[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@userdose-m3p?si=uPhkAfXVyC30dg3K)-->
+[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@userdose-m3p?si=uPhkAfXVyC30dg3K)
 
 <p>Si tu veux discuter, poser une question ou collaborer, n’hésite pas à me contacter !</p>
 
