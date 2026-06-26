@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/zakaria-ennaqui-990883362">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://zakaria-ennaqui.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
@@ -33,10 +33,10 @@
 
 Computer Engineering student at **ENSA Berrechid** (Université Hassan 1er), passionate about building end-to-end systems — from mobile apps and microservice backends to BI pipelines and cloud infrastructure. I love tackling complex problems across the full stack and shipping things that actually work in production.
 
-- 🎓 Cycle Ingénieur GI · ENSA Berrechid · 2024 → present
-- 🔍 Actively looking for a **PFA internship** (July – September)
-- 🌐 Portfolio: [zakaria-ennaqui.vercel.app](https://zakaria-ennaqui.vercel.app)
-- 📄 [View my CV](./Cv_ENNAQUI-Zakaria.pdf)
+- Cycle Ingénieur GI · ENSA Berrechid · 2024 → present
+- Actively looking for a **PFA internship** (July – September)
+- Portfolio: [zakaria-ennaqui.vercel.app](https://zakaria-ennaqui.vercel.app)
+- [View my CV](./Cv_ENNAQUI-Zakaria.pdf)
 
 ---
 
@@ -53,7 +53,7 @@ Computer Engineering student at **ENSA Berrechid** (Université Hassan 1er), pas
 
 ## Projects
 
-### 🚚 Livrago — Logistics Tracking Application
+### Livrago — Logistics Tracking Application
 > *Java EE · Microservices · 2025*
 
 Full logistics platform built on a **10-microservice Spring Boot architecture** with Spring Cloud Eureka service discovery, an API Gateway with JWT/Spring Security, and real-time GPS tracking via WebSocket STOMP. The React frontend is deployed on Vercel; all backend services are Dockerized on HuggingFace Spaces using NeonDB (serverless PostgreSQL).
@@ -65,7 +65,7 @@ Full logistics platform built on a **10-microservice Spring Boot architecture** 
 
 ---
 
-### 📅 Calendly Clone — Xperlik
+### Calendly Clone — Xperlik
 > *Internship @ Xperlik · Full-Stack · 2025*
 
 Online booking platform developed during an industry internship. Three independently deployed apps (client, admin/provider, API). Supports multi-gateway payments (Stripe / Razorpay / Payzone), OTP email verification, promo codes, Cloudinary media uploads, and provider schedule management.
@@ -78,7 +78,7 @@ Online booking platform developed during an industry internship. Three independe
 
 ---
 
-### 📱 StudyFlow — Android AI Study Assistant
+### StudyFlow — Android AI Study Assistant
 > *Mobile Dev · Spring Boot Backend · 2026*
 
 Android app (Java/MVVM) that turns study material into **Summaries, Quizzes, and Flashcards** using Google Gemini 2.0 Flash. Features ML Kit OCR for scanning handwritten notes, spaced repetition review mode, JWT auth, dark/light theme, and a CI/CD pipeline via GitHub Actions that auto-publishes APK releases.
@@ -90,7 +90,7 @@ Android app (Java/MVVM) that turns study material into **Summaries, Quizzes, and
 
 ---
 
-### 🚗 RENT-CARS
+### RENT-CARS
 > *Web Dev · Group Project · 2025*
 
 Peer-to-peer car rental platform. Users can register with email verification, book vehicles, and manage profiles. Owners can list cars with images, control availability, and track reservations. Full JWT-based role system (user / renter / admin).
@@ -102,7 +102,7 @@ Peer-to-peer car rental platform. Users can register with email verification, bo
 
 ---
 
-### 📊 Observatoire Emploi IT — BI Pipeline
+### Observatoire Emploi IT — BI Pipeline
 > *Business Intelligence · 2026*
 
 End-to-end BI solution analyzing the Moroccan IT job market in 2026. Full pipeline: normalized OLTP source (`DB_EmploiIT`) → SSIS ETL with NK→SK lookup transformations → star-schema data warehouse (`DW_EmploiIT`) → Power BI dashboards with DAX measures. Covers 8 real Moroccan companies, 12 IT skills, salary ranges, hiring rates, and skill demand trends.
@@ -115,7 +115,7 @@ Key metrics: **33.33% hire rate** · **~16,380 MAD/month avg salary** · **SQL &
 
 ---
 
-### 🧠 Chatbot + MNIST + Sign Language
+### Chatbot + MNIST + Sign Language
 > *Python AI Project · 2026*
 
 Three AI modules in one project. (1) An NLP chatbot with a PyTorch MLP, NLTK processing pipeline (tokenize → lemmatize → bag-of-words), MySQL-driven dynamic training, and Tkinter GUI with login/history. (2) A TensorFlow/Keras CNN for MNIST digit recognition (99%+ accuracy). (3) A deeper 3-block CNN for sign language digit classification (0–9) on RGB images.
@@ -126,7 +126,7 @@ Three AI modules in one project. (1) An NLP chatbot with a PyTorch MLP, NLTK pro
 
 ---
 
-### 💬 Amazon Sentiment Analysis
+### Amazon Sentiment Analysis
 > *Data Mining · 2026*
 
 Binary sentiment classifier trained on **3.6M Amazon reviews**. Pipeline: text preprocessing (lowercase → punctuation removal → NLTK tokenization → stop word removal → Porter stemming) → TF-IDF (50k features) → compared Logistic Regression, Naïve Bayes, and Decision Tree. Best model: **Logistic Regression at 89.05% accuracy**, deployed live on Streamlit Cloud.
@@ -138,7 +138,7 @@ Binary sentiment classifier trained on **3.6M Amazon reviews**. Pipeline: text p
 
 ---
 
-### 🗄️ Oracle ERP — DB Administration
+### Oracle ERP — DB Administration
 > *DB Administration · S7 · 2025*
 
 Full Oracle Database lifecycle for an ERP system: MCD/MLD modeling, DDL/DML, PL/SQL (stored procedures, functions, triggers, package `pkg_gestion_commandes`), RBAC with dedicated roles, performance indexing strategy, and RMAN backup/recovery policy (7-day retention window). Covers HR, sales, logistics, and finance modules.
@@ -149,7 +149,7 @@ Full Oracle Database lifecycle for an ERP system: MCD/MLD modeling, DDL/DML, PL/
 
 ---
 
-### ☁️ OpenStack Cloud Privé
+### OpenStack Cloud Privé
 > *Systèmes & Réseaux · 2026*
 
 Deployed a full private cloud infrastructure using OpenStack DevStack on Ubuntu 24.04 LTS inside VirtualBox. Configured core services (Keystone, Nova, Neutron, Glance, Cinder, Horizon), SDN networking with OVS/OVN, floating IPs, and launched Cirros VMs — all documented in a formal French technical report.
@@ -160,9 +160,9 @@ Deployed a full private cloud infrastructure using OpenStack DevStack on Ubuntu 
 
 ---
 
-> 👆 These are the featured projects — there are more on my GitHub including earlier experiments, coursework repos, and work in progress.
+> These are the featured projects — there are more on my GitHub including earlier experiments, coursework repos, and work in progress.
 > 
-> → **[See all 21 repositories](https://github.com/zakariaennaqui?tab=repositories)**
+> → **[See all repositories](https://github.com/zakariaennaqui?tab=repositories)**
 
 ---
 
