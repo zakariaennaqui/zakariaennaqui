@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/zakaria-ennaqui-990883362">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" style="vertical-align:middle"/>
   </a>
   <a href="https://zakaria-ennaqui.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
