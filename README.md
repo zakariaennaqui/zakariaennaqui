@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" style="vertical-align:middle"/>
   </a>
   <a href="https://zakaria-ennaqui.vercel.app">
-    <img src="https://skillicons.dev/icons?i=globe" width="20" height="20" style="vertical-align:middle"/>
+    <img src="https://skillicons.dev/icons?i=googlechrome" width="20" height="20" style="vertical-align:middle"/>
   </a>
 </p>
 
