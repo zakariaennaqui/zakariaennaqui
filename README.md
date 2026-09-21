@@ -38,7 +38,7 @@ Computer Engineering student at **ENSA** (Université Hassan 1er), passionate ab
 
 - Cycle Ingénieur GI · ENSA Berrechid · 2024 → present
 - Actively looking for a **PFE Opportunity**
-- Portfolio: [zakaria-ennaqui.vercel.app](https://zakaria-ennaqui.vercel.app)
+- Portfolio: [zakariaennaqui](https://zakaria-ennaqui.vercel.app)
 - [View my CV](./Cv_ENNAQUI-Zakaria.pdf)
 
 ---
