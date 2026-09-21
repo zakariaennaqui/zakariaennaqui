@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Zakaria Ennaqui</h1>
-<h3 align="center">4th-year Computer Engineering Student · ENSA Berrechid</h3>
+<h3 align="center">5th-year · Final-year Computer Engineering student at ENSA Seeking PFE Opportunity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+%7C+Mobile+%7C+Cloud+%7C+BI+%2F+ML;Microservices+%7C+Spring+Boot+%7C+React;Always+building+something+real...;Looking+for+a+PFA+internship+%F0%9F%9A%80" alt="Typing SVG" />
@@ -34,10 +34,10 @@
 
 ## About Me
 
-Computer Engineering student at **ENSA Berrechid** (Université Hassan 1er), passionate about building end-to-end systems — from mobile apps and microservice backends to BI pipelines and cloud infrastructure. I love tackling complex problems across the full stack and shipping things that actually work in production.
+Computer Engineering student at **ENSA** (Université Hassan 1er), passionate about building end-to-end systems — from mobile apps and microservice backends to BI pipelines and cloud infrastructure. I love tackling complex problems across the full stack and shipping things that actually work in production.
 
 - Cycle Ingénieur GI · ENSA Berrechid · 2024 → present
-- Actively looking for a **PFA internship** (July – September)
+- Actively looking for a **PFE Opportunity**
 - Portfolio: [zakaria-ennaqui.vercel.app](https://zakaria-ennaqui.vercel.app)
 - [View my CV](./Cv_ENNAQUI-Zakaria.pdf)
 
