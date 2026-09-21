@@ -196,6 +196,6 @@ Deployed a full private cloud infrastructure using OpenStack DevStack on Ubuntu 
 ---
 
 <p align="center">
-  <i>Open to collaborations, feedback, and PFA internship opportunities — July to September 2026</i><br/>
+  <i>Open to collaborations, feedback, and PFE opportunities 2027</i><br/>
   <a href="mailto:zakariaennaqui.pro@gmail.com">zakariaennaqui.pro@gmail.com</a>
 </p>
